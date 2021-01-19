@@ -9,6 +9,8 @@ public class Percabanganelse {
             System.out.println("Masuk Bayar Rp. 50.000");
         }else {
             System.out.println(" Dilarang masuk ");
+            
+            //kodinganPertama
     }
   }
 }
